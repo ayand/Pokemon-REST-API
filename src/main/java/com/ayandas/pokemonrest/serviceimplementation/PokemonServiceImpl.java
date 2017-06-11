@@ -1,7 +1,8 @@
-package com.ayandas.pokemonrest.service;
+package com.ayandas.pokemonrest.serviceimplementation;
 
 import com.ayandas.pokemonrest.dbops.DBUtil;
 import com.ayandas.pokemonrest.models.Pokemon;
+import com.ayandas.pokemonrest.service.PokemonService;
 
 import java.util.ArrayList;
 import java.util.List;

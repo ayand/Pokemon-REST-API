@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 import javax.ws.rs.core.Application;
 
-import com.ayandas.pokemonrest.service.PokemonServiceImpl;
+import com.ayandas.pokemonrest.serviceimplementation.PokemonServiceImpl;
 
 public class PokemonRestApplication extends Application {
 
